@@ -38,5 +38,5 @@ voltrent-microservices/
 
 ### 2️⃣ Clone source code
 ```bash
-git clone https://github.com/<your-username>/voltrent-microservices.git
+git clone https://github.com/thisIsKhoa/QLDAPM-BE.git
 cd voltrent-microservices
